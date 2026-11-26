@@ -1,4 +1,3 @@
-#include "sudoku_solver.h"
 #include "sudoku_reader.h"
 #include "sudoku_gui.h"
 #include<stdio.h>
